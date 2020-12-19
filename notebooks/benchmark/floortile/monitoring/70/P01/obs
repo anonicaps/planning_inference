@@ -1,0 +1,21 @@
+(observation
+
+(2:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 0) (num_black_r3 1))
+
+(4:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 1) (num_black_r3 1))
+
+(6:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 1) (num_black_r3 1))
+
+(7:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 1) (num_black_r2 0) (num_white_r3 1) (num_black_r3 1))
+
+(8:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 1) (num_black_r2 0) (num_white_r3 1) (num_black_r3 1))
+
+(10:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 1) (num_black_r2 0) (num_white_r3 2) (num_black_r3 1))
+
+(11:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 1) (num_black_r2 0) (num_white_r3 2) (num_black_r3 1))
+
+(12:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 1) (num_white_r2 1) (num_black_r2 0) (num_white_r3 2) (num_black_r3 1))
+
+(13:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 1) (num_white_r2 1) (num_black_r2 0) (num_white_r3 2) (num_black_r3 1))
+
+)

@@ -1,0 +1,21 @@
+(observation
+
+(3:state (num_lifts_f0 0) (num_lifts_f1 0) (num_lifts_f2 0) (num_lifts_f3 1) (num_lifts_f4 1) (num_boarded_l0 2) (num_boarded_l1 0) (num_served 0))
+
+(6:state (num_lifts_f0 0) (num_lifts_f1 0) (num_lifts_f2 1) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 4) (num_boarded_l1 0) (num_served 0))
+
+(7:state (num_lifts_f0 0) (num_lifts_f1 0) (num_lifts_f2 1) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 5) (num_boarded_l1 0) (num_served 0))
+
+(8:state (num_lifts_f0 0) (num_lifts_f1 0) (num_lifts_f2 1) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 6) (num_boarded_l1 0) (num_served 0))
+
+(10:state (num_lifts_f0 0) (num_lifts_f1 0) (num_lifts_f2 1) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 4) (num_boarded_l1 0) (num_served 2))
+
+(11:state (num_lifts_f0 0) (num_lifts_f1 0) (num_lifts_f2 1) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 5) (num_boarded_l1 0) (num_served 2))
+
+(13:state (num_lifts_f0 0) (num_lifts_f1 0) (num_lifts_f2 0) (num_lifts_f3 0) (num_lifts_f4 2) (num_boarded_l0 6) (num_boarded_l1 0) (num_served 2))
+
+(16:state (num_lifts_f0 1) (num_lifts_f1 0) (num_lifts_f2 0) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 4) (num_boarded_l1 0) (num_served 4))
+
+(18:state (num_lifts_f0 0) (num_lifts_f1 1) (num_lifts_f2 0) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 3) (num_boarded_l1 0) (num_served 5))
+
+)

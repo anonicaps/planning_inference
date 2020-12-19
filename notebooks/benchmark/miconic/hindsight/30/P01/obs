@@ -1,0 +1,9 @@
+(observation
+
+(3:state (num_lifts_f0 1) (num_lifts_f1 0) (num_lifts_f2 0) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 3) (num_boarded_l1 0) (num_served 0))
+
+(10:state (num_lifts_f0 0) (num_lifts_f1 1) (num_lifts_f2 0) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 4) (num_boarded_l1 0) (num_served 2))
+
+(12:state (num_lifts_f0 0) (num_lifts_f1 1) (num_lifts_f2 0) (num_lifts_f3 0) (num_lifts_f4 1) (num_boarded_l0 2) (num_boarded_l1 0) (num_served 4))
+
+)

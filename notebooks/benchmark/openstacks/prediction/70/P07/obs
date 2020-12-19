@@ -1,0 +1,31 @@
+(observation
+
+(0:state (num_waiting_small 3) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(2:state (num_waiting_small 3) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(4:state (num_waiting_small 3) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(5:state (num_waiting_small 2) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 1) (num_started_medium 0) (num_started_big 0))
+
+(6:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 3) (num_started_small 1) (num_started_medium 1) (num_started_big 0))
+
+(7:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(8:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(9:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(12:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(14:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(15:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 0) (num_started_medium 1) (num_started_big 1))
+
+(16:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 0) (num_started_medium 0) (num_started_big 1))
+
+(17:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(20:state (num_waiting_small 1) (num_waiting_medium 1) (num_waiting_big 2) (num_started_small 1) (num_started_medium 1) (num_started_big 0))
+
+)

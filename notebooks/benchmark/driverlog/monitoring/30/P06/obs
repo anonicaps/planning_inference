@@ -1,0 +1,13 @@
+(observation
+
+(9:state (city d) (num_packages_t 0) (num_packages_s 1) (num_packages_d 0) (num_packages_h 1))
+
+(12:state (city s) (num_packages_t 0) (num_packages_s 1) (num_packages_d 0) (num_packages_h 1))
+
+(13:state (city s) (num_packages_t 0) (num_packages_s 1) (num_packages_d 0) (num_packages_h 1))
+
+(14:state (city s) (num_packages_t 0) (num_packages_s 1) (num_packages_d 0) (num_packages_h 1))
+
+(17:state (city s) (num_packages_t 0) (num_packages_s 0) (num_packages_d 0) (num_packages_h 1))
+
+)

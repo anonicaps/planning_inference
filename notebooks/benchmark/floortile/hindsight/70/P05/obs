@@ -1,0 +1,39 @@
+(observation
+
+(0:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 0) (num_black_r3 0))
+
+(2:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 0) (num_black_r3 0))
+
+(3:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 1) (num_black_r3 0))
+
+(4:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 1) (num_black_r3 0))
+
+(5:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 1) (num_black_r3 0))
+
+(6:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 2) (num_black_r3 0))
+
+(8:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 0) (num_white_r3 2) (num_black_r3 0))
+
+(9:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 1) (num_white_r3 2) (num_black_r3 0))
+
+(10:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 1) (num_white_r3 2) (num_black_r3 0))
+
+(11:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 0) (num_black_r1 0) (num_white_r2 0) (num_black_r2 1) (num_white_r3 2) (num_black_r3 0))
+
+(14:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 1) (num_black_r1 0) (num_white_r2 0) (num_black_r2 1) (num_white_r3 2) (num_black_r3 1))
+
+(15:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 1) (num_black_r1 0) (num_white_r2 0) (num_black_r2 1) (num_white_r3 2) (num_black_r3 1))
+
+(16:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 1) (num_black_r1 0) (num_white_r2 1) (num_black_r2 1) (num_white_r3 2) (num_black_r3 1))
+
+(17:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 1) (num_black_r1 0) (num_white_r2 1) (num_black_r2 1) (num_white_r3 2) (num_black_r3 1))
+
+(20:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 1) (num_black_r1 0) (num_white_r2 1) (num_black_r2 2) (num_white_r3 2) (num_black_r3 1))
+
+(21:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 1) (num_black_r1 0) (num_white_r2 1) (num_black_r2 2) (num_white_r3 2) (num_black_r3 1))
+
+(22:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 2) (num_black_r1 0) (num_white_r2 1) (num_black_r2 2) (num_white_r3 2) (num_black_r3 1))
+
+(24:state (num_white_r0 0) (num_black_r0 0) (num_white_r1 2) (num_black_r1 0) (num_white_r2 1) (num_black_r2 2) (num_white_r3 2) (num_black_r3 1))
+
+)

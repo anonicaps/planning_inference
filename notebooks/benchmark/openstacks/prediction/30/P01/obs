@@ -1,0 +1,13 @@
+(observation
+
+(8:state (num_waiting_small 1) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 2) (num_started_medium 0) (num_started_big 0))
+
+(9:state (num_waiting_small 1) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 2) (num_started_medium 0) (num_started_big 0))
+
+(11:state (num_waiting_small 1) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(12:state (num_waiting_small 1) (num_waiting_medium 3) (num_waiting_big 2) (num_started_small 0) (num_started_medium 0) (num_started_big 1))
+
+(15:state (num_waiting_small 1) (num_waiting_medium 3) (num_waiting_big 1) (num_started_small 0) (num_started_medium 0) (num_started_big 1))
+
+)

@@ -1,0 +1,9 @@
+(observation
+
+(2:state (num_locked_triangle 3) (num_locked_circle 3) (num_locked_square 3))
+
+(3:state (num_locked_triangle 3) (num_locked_circle 3) (num_locked_square 3))
+
+(5:state (num_locked_triangle 3) (num_locked_circle 3) (num_locked_square 3))
+
+)

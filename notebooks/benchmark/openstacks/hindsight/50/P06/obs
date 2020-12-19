@@ -1,0 +1,37 @@
+(observation
+
+(0:state (num_waiting_small 3) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(3:state (num_waiting_small 3) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(4:state (num_waiting_small 3) (num_waiting_medium 3) (num_waiting_big 3) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(6:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 3) (num_started_small 1) (num_started_medium 1) (num_started_big 0))
+
+(7:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(10:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 0) (num_started_medium 0) (num_started_big 1))
+
+(12:state (num_waiting_small 2) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(13:state (num_waiting_small 1) (num_waiting_medium 2) (num_waiting_big 2) (num_started_small 1) (num_started_medium 0) (num_started_big 0))
+
+(14:state (num_waiting_small 1) (num_waiting_medium 1) (num_waiting_big 2) (num_started_small 1) (num_started_medium 1) (num_started_big 0))
+
+(16:state (num_waiting_small 1) (num_waiting_medium 1) (num_waiting_big 1) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(19:state (num_waiting_small 1) (num_waiting_medium 1) (num_waiting_big 1) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(20:state (num_waiting_small 1) (num_waiting_medium 1) (num_waiting_big 1) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+(22:state (num_waiting_small 0) (num_waiting_medium 0) (num_waiting_big 1) (num_started_small 1) (num_started_medium 1) (num_started_big 0))
+
+(25:state (num_waiting_small 0) (num_waiting_medium 0) (num_waiting_big 0) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(29:state (num_waiting_small 0) (num_waiting_medium 0) (num_waiting_big 0) (num_started_small 1) (num_started_medium 1) (num_started_big 1))
+
+(31:state (num_waiting_small 0) (num_waiting_medium 0) (num_waiting_big 0) (num_started_small 0) (num_started_medium 1) (num_started_big 1))
+
+(33:state (num_waiting_small 0) (num_waiting_medium 0) (num_waiting_big 0) (num_started_small 0) (num_started_medium 0) (num_started_big 0))
+
+)

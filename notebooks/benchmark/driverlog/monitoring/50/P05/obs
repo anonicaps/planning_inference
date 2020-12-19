@@ -1,0 +1,27 @@
+(observation
+
+(0:state (city h) (num_packages_t 1) (num_packages_s 1) (num_packages_d 1) (num_packages_h 1))
+
+(3:state (city h) (num_packages_t 1) (num_packages_s 1) (num_packages_d 1) (num_packages_h 1))
+
+(6:state (city h) (num_packages_t 1) (num_packages_s 1) (num_packages_d 1) (num_packages_h 0))
+
+(7:state (city h) (num_packages_t 1) (num_packages_s 1) (num_packages_d 1) (num_packages_h 0))
+
+(10:state (city t) (num_packages_t 1) (num_packages_s 1) (num_packages_d 1) (num_packages_h 0))
+
+(12:state (city s) (num_packages_t 1) (num_packages_s 1) (num_packages_d 1) (num_packages_h 0))
+
+(13:state (city s) (num_packages_t 1) (num_packages_s 0) (num_packages_d 1) (num_packages_h 0))
+
+(17:state (city d) (num_packages_t 1) (num_packages_s 0) (num_packages_d 1) (num_packages_h 0))
+
+(19:state (city d) (num_packages_t 1) (num_packages_s 0) (num_packages_d 1) (num_packages_h 0))
+
+(21:state (city d) (num_packages_t 1) (num_packages_s 0) (num_packages_d 0) (num_packages_h 0))
+
+(22:state (city d) (num_packages_t 1) (num_packages_s 0) (num_packages_d 0) (num_packages_h 0))
+
+(24:state (city t) (num_packages_t 1) (num_packages_s 0) (num_packages_d 0) (num_packages_h 0))
+
+)
